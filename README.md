@@ -2,6 +2,7 @@
 
 <img src='https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif' alt="banner"></img>
 
+[![An image of @ak8057's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ak8057)](https://holopin.io/@ak8057)
 
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi there, I'm Abhay Kumar</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
