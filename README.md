@@ -39,6 +39,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ak8057)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ak8057)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ak8057)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
